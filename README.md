@@ -7,21 +7,21 @@ A work in progress on compatability with different dev environments. Assuming it
 
 X - - - - - - - - X
 
-- X - - - - - - X -
+X X - - - - - - X X
 
-- - X - - - - X - -
+X - X - - - - X - X
 
-- - - X - - X - - -
+X - - X - - X - - X
 
-- - - - X X - - - -
+X - - - X X - - - X
 
-- - - - X X - - - -
+X - - - X X - - - X
 
-- - - X - - X - - -
+X - - X - - X - - X
 
-- - X - - - - X - -
+X - X - - - - X - X
 
-- X - - - - - - X -
+X X - - - - - - X X
 
 X - - - - - - - - X
 
